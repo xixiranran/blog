@@ -24,8 +24,7 @@ domainUrl: 'https://blog.xixiranran.com'
 baseurl: ''
 
 # 吐个槽地址，会在chat页面中重定向到该地址
-tucaoUrl: 
-https://support.qq.com/products/667692
+tucaoUrl: https://support.qq.com/products/667692
 projectUrl: https://www.xixiranran.com/
 
 # 菜单
