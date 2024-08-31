@@ -4,11 +4,11 @@ plugins:
   - jekyll-regex-replace
 
 # SEO相关信息
-title: TMaize Blog
-description: TMaize的个人博客
-keywords: TMaize,Blog,Java,Html,JavaScript
-author: TMaize
-footerText: 'Copyright © 2016 皖ICP备16016174号'
+title: 熙然博客
+description: 熙然的个人博客
+keywords: 熙然,熙然博客,XiRan,xiran,Blog,Java,Html,JavaScript
+author: 熙然
+footerText: 'Copyright © 2023 '
 
 # 这些不要动
 permalink: /posts/:year/:month/:day/:title.html
@@ -54,7 +54,7 @@ extAdsense: false
 extMath: false
 
 # 显示访问量统计，由不蒜子提供服务
-extCount: false
+extCount: true
 
 # 友情链接
 links:
