@@ -26,6 +26,7 @@ baseurl: ''
 # 吐个槽地址，会在chat页面中重定向到该地址
 tucaoUrl: 
 https://support.qq.com/products/667692
+projectUrl: https://www.xixiranran.com/
 
 # 菜单
 # 必填字段 title: '文本' url: '链接'
@@ -35,6 +36,8 @@ menu:
     url: /
   - title: 归类
     url: /pages/categories.html
+  - title: 项目
+    url: /pages/project.html
   - title: 搜索
     url: /pages/search.html
   - title: 友链
